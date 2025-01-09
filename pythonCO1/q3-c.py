@@ -1,3 +1,5 @@
+# Form a list of vowels selected from a given word
+
 word=input("Enter a Word:")
 w1=[n for n in word]
 print(w1)
